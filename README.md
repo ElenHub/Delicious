@@ -1,8 +1,6 @@
-# Responsive Website  Pizzeria
 # Responsive  Pizzeria Website
-## Responsive Website Pizzeria
 Nice design of a responsive pizzeria website 🍕 . It contains a header, home, about, services, menu, app, contact and a footer. It also has a fully developed light/dark mode 🌓 first for mobile then for desktop.
-### Responsive Pizzeria  Website
+## Responsive Pizzeria  Website
 
 
 - Responsive Restaurant Website Design Using HTML CSS & JavaScript
